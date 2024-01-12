@@ -1,0 +1,13 @@
+{
+    "name":"Mercedes-Benz G63 AMG",
+    "description":"The AMG G63 is a robust blend of luxury off-road prowess and sports car performance. It's known for its distinctive design, powerful V8 engine, and luxurious interior.",
+    "image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/gclass_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6267/mercedes-benz-g63-amg-emerald-green",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "4.0 l" },
+        { "trait_type": "Engine power", "value": "585 hp" },
+        { "trait_type": "Weight", "value": "2560 kg" },
+        { "trait_type": "Top Speed", "value": "240 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "4.5 s" }
+    ]
+    }

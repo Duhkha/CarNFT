@@ -1,0 +1,13 @@
+{
+    "name":"Porsche 911 Carrera 992 Coupe",
+    "description":"The Porsche 911 Carrera is an iconic sports car that balances track-ready performance with everyday usability. Its timeless design and exceptional engineering make it a classic.",
+    "image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/Porsche_911_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6419/porsche-911-carrera-992-coupe",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "3.0 l" },
+        { "trait_type": "Engine power", "value": "388 hp" },
+        { "trait_type": "Weight", "value": "1480 kg" },
+        { "trait_type": "Top Speed", "value": "293 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "4.2 s" }
+    ]
+    }

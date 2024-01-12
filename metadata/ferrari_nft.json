@@ -1,0 +1,13 @@
+{
+    "name":"Ferrari F8 Tributo",
+    "description":"A tribute to Ferrari's unmatched engine heritage, the F8 Tributo is a masterpiece of speed and engineering. With its breathtaking performance and iconic design, its a true driver's car.",
+    "image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/ferrari_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6425/ferrari-f8-tributo",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "3.9 l" },
+        { "trait_type": "Engine power", "value": "721 hp" },
+        { "trait_type": "Weight", "value": "1495 kg" },
+        { "trait_type": "Top Speed", "value": "340 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "2.9 s" }
+    ]
+    }

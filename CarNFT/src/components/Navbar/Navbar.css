@@ -1,0 +1,45 @@
+/* Override Bootstrap dark navbar colors */
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff !important;
+    text-transform: uppercase;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+  }
+  
+  /* Override Bootstrap navbar brand colors */
+  .navbar-dark .navbar-brand {
+    color: #fff !important;
+    text-transform: uppercase;
+    font-family: 'Rufina', serif;
+  }
+  
+  /* Override Bootstrap dark navbar colors on hover, focus, and active */
+  .navbar-dark .navbar-nav .nav-link:hover,
+  .navbar-dark .navbar-nav .nav-link:focus,
+  .navbar-dark .navbar-nav .nav-link:active {
+    color: #144A76 !important;
+  }
+  
+  /* Override the background color when the navbar is active */
+  .navbar-dark .navbar-nav .nav-item.active .nav-link {
+    color: #144A76 !important;
+  }
+  
+  /* Sticky Navbar Styles */
+  .navbar {
+    position: relative;
+    z-index: 999;
+    height: 62px;
+    width: 100%;
+    background-color: #ccc;
+    transition: background-color 0.3s ease-in-out; /* Add a transition for smoother color change */
+  }
+  
+  /* Add a background color when the navbar is sticky */
+  .navbar.sticky-nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #011223; /* Adjust the background color for the sticky state */
+  }
+  

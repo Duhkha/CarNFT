@@ -1,0 +1,13 @@
+{
+    "name":"Maserati Ghibli S Gran Lusso",
+    "description":"The Maserati Ghibli captures the essence of Italian luxury and performance. With its sleek styling and a powerful engine, it delivers an exhilarating driving experience.",
+    "image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/maserati_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6237/maserati-ghibli-s-gran-lusso",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "3.0 l" },
+        { "trait_type": "Engine power", "value": "420 hp" },
+        { "trait_type": "Weight", "value": "1870 kg" },
+        { "trait_type": "Top Speed", "value": "290 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "4.9 s" }
+    ]
+    }

@@ -1,0 +1,15 @@
+{
+    "name":"Chevrolete Corvette C8",
+    "description":"Revolutionizing American sports cars, the Corvette C8 boasts a mid-engine design for exceptional balance and agility. Its striking appearance and powerful performance redefine expectations.",
+    "image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/corvette_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6445/chevrolete-corvette-6-2-v8-stingray",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "6.2 l" },
+        { "trait_type": "Engine power", "value": "479 hp" },
+        { "trait_type": "Weight", "value": "1775 kg" },
+        { "trait_type": "Top Speed", "value": "312 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "2.9 s" }
+    ]
+    }
+
+

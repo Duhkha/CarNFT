@@ -1,0 +1,15 @@
+{
+"name":"BMW 640d",
+"description":"The BMW 640d epitomizes luxury and sophistication, blending impeccable German engineering with sleek, contemporary design. This model stands out with its refined aesthetics, powerful yet efficient diesel engine, and a cabin adorned with high-quality materials and cutting-edge technology. It offers an unparalleled driving experience with dynamic performance, superior comfort, and advanced safety features. The BMW 640d is not just a car; it's a statement of elegance and an embodiment of automotive excellence.",
+"image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/BMW_640d_nft.jpg",
+"external_url":"http://www.turbo-trade.com/6325/bmw-640-d-x-drive-m-performance",
+"attributes":[
+    { "trait_type": "Engine displacement", "value": "3.0 l" },
+    { "trait_type": "Engine power", "value": "313 hp" },
+    { "trait_type": "Weight", "value": "1790 kg" },
+    { "trait_type": "Top Speed", "value": "250 km/h" },
+    { "trait_type": "Acceleration (0-100)", "value": "5.4 s" }
+]
+}
+
+

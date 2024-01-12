@@ -1,0 +1,13 @@
+{
+    "name":"BMW M550i",
+    "description":"The BMW M550i combines luxury with raw power, featuring a robust V8 engine, sophisticated interior, and cutting-edge technology. It's a perfect blend of performance and comfort.",
+    "image":"ipfs://QmXDrvEuqzo5huHiJdXKbDNeERfwwHmemhaEka4UVkKR1T/BMW_m550i_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6293/bmw-m550i-x-drive",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "4.4 l" },
+        { "trait_type": "Engine power", "value": "531 hp" },
+        { "trait_type": "Weight", "value": "1885 kg" },
+        { "trait_type": "Top Speed", "value": "250 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "3.6 s" }
+    ]
+    }

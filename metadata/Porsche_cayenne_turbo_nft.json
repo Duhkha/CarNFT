@@ -1,0 +1,13 @@
+{
+    "name":"Porsche Cayenne Turbo",
+    "description":"Blending sports car performance with SUV versatility, the Porsche Cayenne Turbo offers a thrilling driving experience, luxurious comfort, and impressive power.",
+    "image":"https://bafybeied7pv7e5g3qyqnq7efxgqrplo6gvnv4k2np5qdnhz6ggwlow6exi.ipfs.dweb.link/Porsche_cayenne_turbo_nft.jpg",
+    "external_url":"http://www.turbo-trade.com/6016/porsche-cayenne-turbo-v8",
+    "attributes":[
+        { "trait_type": "Engine displacement", "value": "4.0 l" },
+        { "trait_type": "Engine power", "value": "550 hp" },
+        { "trait_type": "Weight", "value": "2283 kg" },
+        { "trait_type": "Top Speed", "value": "286 km/h" },
+        { "trait_type": "Acceleration (0-100)", "value": "3.9 s" }
+    ]
+    }
